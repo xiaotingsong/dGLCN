@@ -5,4 +5,4 @@ The paper can be accessed by https://www.researchgate.net/publication/363592940_
 
 Code is Under Revision, it will be updated ASAP. 2022/10/10
 
-The code with orginial version can be obtained by email xtstars1998@gmail.com, if you are interested. 
+The code of orginial version can be obtained by email xtstars1998@gmail.com, if you are interested. 
